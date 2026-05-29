@@ -11,7 +11,7 @@ body{
     font-size: 16px;
     font-family: Arial;
     margin: 0;
-    background-color: rgb(1, 1, 52);
+    background-color: black;
     color: white;
 }
 img{
@@ -25,11 +25,7 @@ a{
      background-color: white;
     padding-bottom: 10px;
     padding-top: 10px;
-   position: sticky;
-   top: 0;
-   left: 0;
-   width: 100%;
- z-index: 1000;
+  
 
 
 }
@@ -294,5 +290,19 @@ color: white;
 }
 .tgshka{
     width: 900px;
+}
+.header
+{
+     background-color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  
+
+}
+.hero_content
+{
+    opacity: 1;
+    transform: translateY(30px);
+    transition: 1s;
 }
     }
