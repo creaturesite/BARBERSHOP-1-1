@@ -102,10 +102,11 @@ padding-left: 0;
 }
 .hero_title
 {
-    font-family: 'SmoochSans', sans-serif;
+    
     font-size: 100px;
     margin-bottom: 0;
     padding-bottom: 0;
+    font-family: 'SmoochSans', sans-serif;
 }
 .p1
 {
@@ -315,5 +316,5 @@ color: white;
 
     @font-face {
         font-family: 'SmoochSans';
-src: url('./fonts/Smooch_Sans.zip') format('truetype');
+src: url('./fonts/SmoochSans-VariableFont_wght.ttf') format('truetype');
     }
